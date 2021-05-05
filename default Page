@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs" class="">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>www.majun.fun</title>
+		
+		<meta name="author" content="HTML code: Ma Jun; e-mail: Jason@nalu.fun">
+		<style type="text/css">
+			body {
+				margin: 3em;
+				padding: 3em;
+				text-align: center;
+				background: #fff6df;
+				font-family: Impact, "Techno CE", sans-serif;
+				letter-spacing: 0.1em;
+			}
+			h1 {
+				margin: 0;
+				padding: 0.5em 0 0;
+				background: #fff6df;
+				color: #ffff00;
+				color: #ffa500;
+				font-size: 2em;
+				font-weight: normal;
+				white-space: nowrap;
+			}
+			.pull-left {
+				font-family: 'Microsoft YaHei UI';
+				display: table-cell;
+				vertical-align: bottom;
+				color: #ff8c00;
+			}
+
+			.img {
+				vertical-align: baseline;
+				width:100px
+			
+			}
+
+		</style>	
+	<link type="text/css" rel="stylesheet" charset="UTF-8" href="./www.majun.com_files/translateelement.css">
+	
+	</head>
+<body>
+	<div style="position: relative; margin: 0 auto; outline: 3em solid #fff6df; border: 3em solid #fff0cd; min-width: 25em; max-width: 50em;">
+		<h1>www.majun.fun</h1>
+		<p style="margin: 0; padding: 1em 3em 3em; background: #fff6df;">
+			<span style="display: block; margin: 0; padding: 0.75em 0 0; background: #fff0cd; color: #ff8c00; font-size: 1.5em; white-space: nowrap;">Coming soon</span>
+			<strong style="display: block; margin: 0; border: 1em solid #fff0cd; border-top: 0.4em solid #fff0cd; padding: 1em; font-size: 3em; background: #fff6df; color: #10273f; white-space: nowrap; text-decoration: blink;">We know Drama Better</strong>
+		</p>
+	</div>
+	<div id="pic_outer" style="position:relative;margin:0 auto;width:120px; height:4px; list-style:none;" >
+
+		<div id="pic_inner" style="position:relative;float:left">
+			<img src="C:\Users\MaJun\Desktop\www.majun.fun\bomdr.jpg" width="90" height="90" class="img" />
+
+		</div>
+		
+
+	</div>
+	
+
+
+
+
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="footer">
+					<hr style="		margin-top: 20px 0 10px 0;margin-top: 90px;" />
+					<p class="pull-left" align="center" style="font-size: 12px;width: 1839.200;width: 1900px;">
+						Powered by <a target="_blank" href="https://www.raspberrypi.org/"><strong>Respberry Pi 4</strong></a>, MAJUN.fun all rights reserved
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+</body>
+</html>
